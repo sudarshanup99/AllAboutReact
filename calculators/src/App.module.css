@@ -1,0 +1,22 @@
+.calculator{
+    border: 1px solid rgba( 90, 90, 90);
+    width: 300px;
+    border-radius: 5px;
+    margin: auto ;
+    top: 50%;
+   padding: 5px;
+  
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color:coral;
+    margin-bottom: 0px;
+    margin-top: 2px;
+
+}
+hr{
+    width: 300px;
+    border: 2px solid green;
+}
+
